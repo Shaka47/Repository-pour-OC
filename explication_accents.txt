@@ -1,0 +1,1 @@
+"C'est dommage que les e accents aigues ou circonflexes ne marchent pas sur la console ou sur Github, mais je suppose que c'est parce que c'est a l'origine coder en anglais !"
